@@ -49,7 +49,7 @@ namespace Ivory.TesteEstagio.CampoMinado
 
                 {
 
-                   // Console.WriteLine(array[i, j].ToString());
+                    Console.WriteLine(array[i, j].ToString());
 
                 }
 
