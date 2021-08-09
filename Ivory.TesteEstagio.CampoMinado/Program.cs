@@ -29,12 +29,8 @@ namespace Ivory.TesteEstagio.CampoMinado
             //OBJ 1: Talvez uma maneira de solucionar seja dividir o array de 9x9 para 3 array 3x3 sendo assim possível verificar
             //o elemento central e seu arredor
 
-            string = campoMinado.Tabuleiro;
 
-            Console.WriteLine(string table);
-
-
-
+            
             /* // Método 1
              foreach (int x > 0 in campoMinado.Tabuleiro)
                  {
@@ -99,10 +95,12 @@ namespace Ivory.TesteEstagio.CampoMinado
 
             //Abrir casa
             campoMinado.Abrir(9, 9);
+            
             Console.WriteLine("Início do jogo\n=========");
             Console.WriteLine(campoMinado.Tabuleiro);
+           ;
 
-            
+
 
         }
 
