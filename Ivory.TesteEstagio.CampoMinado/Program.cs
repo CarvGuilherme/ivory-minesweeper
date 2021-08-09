@@ -31,15 +31,15 @@ namespace Ivory.TesteEstagio.CampoMinado
 
 
             
-            /* // Método 1
+            // Método 1
              foreach (int x > 0 in campoMinado.Tabuleiro)
                  {
 
 
                  }
                   };
-         */
-            /*// Método 2
+         
+            // Método 2
 
             for (int i = 0; i < 9; i++)
 
@@ -54,10 +54,10 @@ namespace Ivory.TesteEstagio.CampoMinado
                 }
 
             }
-            */
+            
              
             
-            /*// Método 3
+            // Método 3
             class ArrayClass2D
          {
         static void Print2DArray(int[,] arr)
