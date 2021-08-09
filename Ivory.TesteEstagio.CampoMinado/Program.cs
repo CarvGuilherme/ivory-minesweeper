@@ -21,9 +21,9 @@ namespace Ivory.TesteEstagio.CampoMinado
 
 
 
-            // Objetivo 1 : Conseguir uma lógica que percorra o campoMinado.Tabuleiro e retorne o valor 
-            // Objetivo 2 : Avaliar as posições ao redor da casa para ver se é segura abrir
-            // Objetivo 3 : Caso seja segura executar campoMinado.abrir para abrir a casa certa. 
+            // Objetivo 1 : Conseguir uma lógica que percorra o campoMinado.Tabuleiro e retorne o valor.
+            // Objetivo 2 : Avaliar as posições ao redor da casa para ver se é segura abrir.
+            // Objetivo 3 : Caso seja segura, executar campoMinado.Abrir para abrir a casa certa. 
 
 
             //OBJ 1: Talvez uma maneira de solucionar seja dividir o array de 9x9 para 3 array 3x3 sendo assim possível verificar
